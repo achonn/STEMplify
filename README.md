@@ -12,7 +12,7 @@ Welcome to **STEMplify**! This platform simplifies text while retaining importan
 Features:
 
 - **Text Simplification**: Simplify text while preserving key information.
-- **Keyword Inclusion**: Retain specified keywords in the simplified text.
+- **Keyword Inclusion**: Retain specified keywords (multiple) in the simplified text.
 - **Levels of Simplification**: Choose from three levels of simplification:
   - **Level 1**: Basic simplification, focusing on readability.
   - **Level 2**: Intermediate simplification, balancing readability and detail.
