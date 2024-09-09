@@ -79,7 +79,7 @@ const SimplifyText = () => {
     <>
       {isLoading ? (
         <div className='loading-page'>
-          <div className='loading-indicator'>Loading...</div>
+          <div className='loader'></div>
         </div>
       ) : (
         <>
