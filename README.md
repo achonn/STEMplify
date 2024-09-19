@@ -6,7 +6,7 @@ A tool to simplify text and files.
 
 ![homepage](https://github.com/user-attachments/assets/91946117-d05a-4192-ab43-3a5630be1fce)
 
-Welcome to **STEMplify**! This platform simplifies text while retaining important keywords and supports different levels of simplification. It also allows for the simplification of `.html` and `.docx` files.
+Welcome to **STEMplify**! This platform simplifies text using the cohere chat api while retaining important keywords and supports different levels of simplification. It also allows for the simplification of `.html` and `.docx` files.
 
 
 Features:
@@ -45,7 +45,7 @@ This project is a web tool built with React & TypeScript for the frontend, Mongo
 
 _Below is an example of how you can run a local version of STEMplify on your machine_
 
-1. Generate a **COHERE_API_TOKEN``** at <code>[https://docs.cohere.com/docs/chat-api]((https://docs.cohere.com/docs/chat-api))</code>
+1. Generate a **COHERE_API_TOKEN** at <code>[https://docs.cohere.com/docs/chat-api]((https://docs.cohere.com/docs/chat-api))</code>
 2. Clone the repo
    ```sh
    git clone git@github.com:achonn/STEMplify.git
