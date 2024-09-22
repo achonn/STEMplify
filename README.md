@@ -2,7 +2,7 @@
 
 # STEMplify
 
-A tool to simplify text and files.
+A tool to simplify texts and files.
 
 ![homepage](https://github.com/user-attachments/assets/91946117-d05a-4192-ab43-3a5630be1fce)
 
